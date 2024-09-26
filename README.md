@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Steller12/leetcode-practice/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Steller12/leetcode-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Steller12/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Steller12/leetcode-practice/tree/master/0015-3sum) |
 ## Linked List
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Steller12/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Steller12/leetcode-practice/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
