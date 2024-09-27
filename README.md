@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Steller12/leetcode-practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Steller12/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## String
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
