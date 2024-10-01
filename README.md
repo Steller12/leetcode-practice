@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Steller12/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Steller12/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
+| [1603-running-sum-of-1d-array](https://github.com/Steller12/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Steller12/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
