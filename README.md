@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
+| [3429-special-array-i](https://github.com/Steller12/leetcode-practice/tree/master/3429-special-array-i) |
 ## Linked List
 |  |
 | ------- |
