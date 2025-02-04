@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Steller12/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Steller12/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Steller12/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Steller12/leetcode-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
