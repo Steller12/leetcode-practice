@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Steller12/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Steller12/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Steller12/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Steller12/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Steller12/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
