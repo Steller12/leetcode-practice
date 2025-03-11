@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Steller12/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Steller12/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Steller12/leetcode-practice/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Steller12/leetcode-practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Steller12/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [1002-maximum-width-ramp](https://github.com/Steller12/leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -77,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Steller12/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Steller12/leetcode-practice/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Steller12/leetcode-practice/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Steller12/leetcode-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
