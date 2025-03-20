@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Steller12/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Steller12/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [1002-maximum-width-ramp](https://github.com/Steller12/leetcode-practice/tree/master/1002-maximum-width-ramp) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Steller12/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Steller12/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Steller12/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 ## Stack
