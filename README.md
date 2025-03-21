@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Steller12/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Steller12/leetcode-practice/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Steller12/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Steller12/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Steller12/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Steller12/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Steller12/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Steller12/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
