@@ -11,9 +11,10 @@ class Solution:
                 d[sum]+=1
             else:
                 d[sum]=1
-        maximum=max(d.values())
-        c=0
+        d2={}
         for i in d.values():
-            if i==maximum:
-                c+=1
-        return c
+            if i in d2:
+                d2[i]+=1
+            else:
+                d2[i]=1
+        return d2[max(d2.keys())]
