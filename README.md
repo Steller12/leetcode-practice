@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Steller12/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Steller12/leetcode-practice/tree/master/3429-special-array-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Steller12/leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Linked List
 |  |
 | ------- |
