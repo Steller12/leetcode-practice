@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Steller12/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Steller12/leetcode-practice/tree/master/3429-special-array-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Steller12/leetcode-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Linked List
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -302,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Steller12/leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
