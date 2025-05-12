@@ -1,19 +1,35 @@
 class Solution:
     def findEvenNumbers(self, digits: List[int]) -> List[int]:
-        even_numbers = set()  
+        d={}
+        res=[]
+        for i in digits:
+            if i in d:
+                d[i]+=1
+            else:
+                d[i]=1
+        for i in range(100,999,2):
+            h=i//100
+            t=i//10 - h*10
+            f=i%10
+            
+            d2={}
+            d2[h]=1
+            if t in d2:
+                d2[t]+=1
+            else:
+                d2[t]=1
+            if f in d2:
+                d2[f]+=1
+            else:
+                d2[f]=1
 
-        for num in range(100, 1000):
-            if num % 2 != 0:
-                continue
+            flag=True
+            for k,m in d2.items():
+                if d.get(k,0)<m:
+                    flag=False
+                    break
+            
+            if flag:
+                res.append(i)
+        return res
 
-            hundreds, tens, units = num // 100, (num // 10) % 10, num % 10
-
-            available_digits = digits.copy()
-
-            if hundreds in available_digits:
-                available_digits.remove(hundreds)
-                if tens in available_digits:
-                    available_digits.remove(tens)
-                    if units in available_digits:
-                        even_numbers.add(num)
-        return sorted(even_numbers)
