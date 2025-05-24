@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Steller12/leetcode-practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Steller12/leetcode-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Steller12/leetcode-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Steller12/leetcode-practice/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Steller12/leetcode-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Steller12/leetcode-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Steller12/leetcode-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Steller12/leetcode-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Steller12/leetcode-practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Steller12/leetcode-practice/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/Steller12/leetcode-practice/tree/master/3451-string-compression-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Steller12/leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Steller12/leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
