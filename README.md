@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Steller12/leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Steller12/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Steller12/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Steller12/leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1603-running-sum-of-1d-array](https://github.com/Steller12/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Steller12/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Steller12/leetcode-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Steller12/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Steller12/leetcode-practice/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Steller12/leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Steller12/leetcode-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Steller12/leetcode-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Steller12/leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Steller12/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Steller12/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
