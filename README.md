@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Steller12/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Steller12/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Steller12/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Steller12/leetcode-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Steller12/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
 | ------- |
