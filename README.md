@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Steller12/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Steller12/leetcode-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Steller12/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Steller12/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Steller12/leetcode-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Steller12/leetcode-practice/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Steller12/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Steller12/leetcode-practice/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Steller12/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Steller12/leetcode-practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Enumeration
