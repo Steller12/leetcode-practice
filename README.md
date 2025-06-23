@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Steller12/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Steller12/leetcode-practice/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Steller12/leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Steller12/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Steller12/leetcode-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Steller12/leetcode-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
