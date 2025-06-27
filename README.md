@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Steller12/leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Steller12/leetcode-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Steller12/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Steller12/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Steller12/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Steller12/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Steller12/leetcode-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Steller12/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Steller12/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Steller12/leetcode-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Steller12/leetcode-practice/tree/master/3201-distribute-candies-among-children-ii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Steller12/leetcode-practice/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Steller12/leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Steller12/leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Steller12/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Steller12/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -463,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Steller12/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
