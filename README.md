@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Steller12/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Steller12/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Steller12/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Steller12/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Steller12/leetcode-practice/tree/master/0907-koko-eating-bananas) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Steller12/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Steller12/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/Steller12/leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
