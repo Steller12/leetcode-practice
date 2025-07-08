@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Steller12/leetcode-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Steller12/leetcode-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Steller12/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Steller12/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/Steller12/leetcode-practice/tree/master/0868-push-dominoes) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Steller12/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Steller12/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Steller12/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Steller12/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Steller12/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Steller12/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
