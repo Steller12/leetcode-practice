@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Steller12/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Steller12/leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Steller12/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Steller12/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Steller12/leetcode-practice/tree/master/0945-snakes-and-ladders) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Steller12/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -429,12 +432,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Steller12/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Steller12/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
