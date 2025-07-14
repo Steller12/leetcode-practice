@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Steller12/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Steller12/leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Steller12/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Steller12/leetcode-practice/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/Steller12/leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Steller12/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
