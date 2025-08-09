@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Steller12/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Steller12/leetcode-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Steller12/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Steller12/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Steller12/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Steller12/leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Steller12/leetcode-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
