@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Steller12/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Steller12/leetcode-practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-range-product-queries-of-powers](https://github.com/Steller12/leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Steller12/leetcode-practice/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Steller12/leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Steller12/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Steller12/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Steller12/leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [3639-zero-array-transformation-i](https://github.com/Steller12/leetcode-practice/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Steller12/leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Steller12/leetcode-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Steller12/leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2529-range-product-queries-of-powers](https://github.com/Steller12/leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Steller12/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Steller12/leetcode-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Steller12/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
