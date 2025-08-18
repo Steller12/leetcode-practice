@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Steller12/leetcode-practice/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Steller12/leetcode-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Steller12/leetcode-practice/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Steller12/leetcode-practice/tree/master/1013-fibonacci-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Steller12/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Steller12/leetcode-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Probability and Statistics
