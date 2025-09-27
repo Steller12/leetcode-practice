@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Steller12/leetcode-practice/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Steller12/leetcode-practice/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Steller12/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Steller12/leetcode-practice/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Steller12/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/Steller12/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Steller12/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Steller12/leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Steller12/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Steller12/leetcode-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
 |  |
