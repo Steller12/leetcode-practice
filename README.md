@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Steller12/leetcode-practice/tree/master/0830-largest-triangle-area) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Steller12/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Steller12/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Steller12/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Steller12/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Steller12/leetcode-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Steller12/leetcode-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Steller12/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Steller12/leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Steller12/leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Steller12/leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Steller12/leetcode-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Steller12/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Steller12/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Steller12/leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Steller12/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -583,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Steller12/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Steller12/leetcode-practice/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Steller12/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
