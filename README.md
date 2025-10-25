@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Steller12/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Steller12/leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Steller12/leetcode-practice/tree/master/1500-count-largest-group) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Steller12/leetcode-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Steller12/leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Steller12/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
