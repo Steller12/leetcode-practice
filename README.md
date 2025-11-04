@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Steller12/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Steller12/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Steller12/leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Steller12/leetcode-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Steller12/leetcode-practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Steller12/leetcode-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Steller12/leetcode-practice/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Steller12/leetcode-practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Steller12/leetcode-practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Steller12/leetcode-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Steller12/leetcode-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Steller12/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Steller12/leetcode-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Steller12/leetcode-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Steller12/leetcode-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Steller12/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Steller12/leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Steller12/leetcode-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Steller12/leetcode-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Steller12/leetcode-practice/tree/master/3647-zero-array-transformation-iii) |
