@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Steller12/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
