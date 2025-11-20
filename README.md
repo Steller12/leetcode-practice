@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Steller12/leetcode-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Steller12/leetcode-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Steller12/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Steller12/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Steller12/leetcode-practice/tree/master/0342-power-of-four) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Steller12/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Steller12/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Steller12/leetcode-practice/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Steller12/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Steller12/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Steller12/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Steller12/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Steller12/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Steller12/leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Steller12/leetcode-practice/tree/master/1078-remove-outermost-parentheses) |
