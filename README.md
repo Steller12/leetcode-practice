@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Steller12/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Steller12/leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Steller12/leetcode-practice/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Steller12/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Steller12/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Steller12/leetcode-practice/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Steller12/leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Steller12/leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/Steller12/leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Steller12/leetcode-practice/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Steller12/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-simple-bank-system](https://github.com/Steller12/leetcode-practice/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Steller12/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Steller12/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Steller12/leetcode-practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
