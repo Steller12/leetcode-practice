@@ -4,10 +4,9 @@ class Solution:
         heapq.heapify(stones)
 
         while len(stones) > 1:
-            first = heapq.heappop(stones)
-            second = heapq.heappop(stones)
+            first = abs(heapq.heappop(stones))
+            second = abs(heapq.heappop(stones))
             if first > second:
-                heapq.heappush(stones, -(abs(first) - abs(second)))
-            else:
-                heapq.heappush(stones, -(abs(second) - abs(first)))
+                heapq.heappush(stones, -(first - second))
+        stones.append(0)
         return abs(stones[0])
