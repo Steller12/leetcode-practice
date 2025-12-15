@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Steller12/leetcode-practice/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Steller12/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/Steller12/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Steller12/leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Steller12/leetcode-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Steller12/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Steller12/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Steller12/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Steller12/leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
