@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Steller12/leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Steller12/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Steller12/leetcode-practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Steller12/leetcode-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Steller12/leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Steller12/leetcode-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Steller12/leetcode-practice/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Steller12/leetcode-practice/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Steller12/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Steller12/leetcode-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Steller12/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
