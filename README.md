@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Steller12/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Steller12/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Steller12/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Steller12/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Steller12/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
