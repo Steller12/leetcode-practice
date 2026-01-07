@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Steller12/leetcode-practice/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Steller12/leetcode-practice/tree/master/0482-license-key-formatting) |
+| [0796-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Steller12/leetcode-practice/tree/master/0831-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/Steller12/leetcode-practice/tree/master/0868-push-dominoes) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Steller12/leetcode-practice/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Steller12/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
