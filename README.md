@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Steller12/leetcode-practice/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/Steller12/leetcode-practice/tree/master/0868-push-dominoes) |
+| [0881-boats-to-save-people](https://github.com/Steller12/leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Steller12/leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Steller12/leetcode-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Steller12/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Steller12/leetcode-practice/tree/master/0830-largest-triangle-area) |
+| [0881-boats-to-save-people](https://github.com/Steller12/leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Steller12/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Steller12/leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Steller12/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Steller12/leetcode-practice/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Steller12/leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Steller12/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Steller12/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Steller12/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Steller12/leetcode-practice/tree/master/0135-candy) |
+| [0881-boats-to-save-people](https://github.com/Steller12/leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Steller12/leetcode-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Steller12/leetcode-practice/tree/master/1448-maximum-69-number) |
