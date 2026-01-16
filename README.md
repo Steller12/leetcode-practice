@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Steller12/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Steller12/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Steller12/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Steller12/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Steller12/leetcode-practice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Steller12/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/Steller12/leetcode-practice/tree/master/0868-push-dominoes) |
 | [0881-boats-to-save-people](https://github.com/Steller12/leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Steller12/leetcode-practice/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Steller12/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Steller12/leetcode-practice/tree/master/0482-license-key-formatting) |
+| [0567-permutation-in-string](https://github.com/Steller12/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Steller12/leetcode-practice/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Steller12/leetcode-practice/tree/master/0812-rotate-string) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Steller12/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Steller12/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Steller12/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Steller12/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Steller12/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/Steller12/leetcode-practice/tree/master/0867-new-21-game) |
