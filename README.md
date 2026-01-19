@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Steller12/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/Steller12/leetcode-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Steller12/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Steller12/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Steller12/leetcode-practice/tree/master/0816-design-hashset) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Steller12/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Steller12/leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/Steller12/leetcode-practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Steller12/leetcode-practice/tree/master/2058-concatenation-of-array) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Steller12/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Steller12/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Steller12/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Steller12/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Steller12/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Steller12/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Steller12/leetcode-practice/tree/master/1002-maximum-width-ramp) |
