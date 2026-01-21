@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Steller12/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Steller12/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Steller12/leetcode-practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Steller12/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Steller12/leetcode-practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Steller12/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/Steller12/leetcode-practice/tree/master/0868-push-dominoes) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Steller12/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Steller12/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Steller12/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Steller12/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Steller12/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Steller12/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Steller12/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Steller12/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Steller12/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Steller12/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Steller12/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/Steller12/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Steller12/leetcode-practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Steller12/leetcode-practice/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Steller12/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Steller12/leetcode-practice/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Steller12/leetcode-practice/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Steller12/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
