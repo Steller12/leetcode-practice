@@ -9,13 +9,11 @@ class Solution:
         if not root:
             return 0
         ans=0
-        q=deque([root])
-        while q:
-            for i in range(len(q)):
-                node=q.popleft()
-                if node.left:
-                    q.append(node.left)
-                if node .right:
-                    q.append(node.right)
-            ans+=1
+        stack=[[root,1]]
+        while stack:
+            node, depth=stack.pop()
+            if node:
+                ans=max(ans, depth)
+                stack.append([node.left,depth+1])
+                stack.append([node.right,depth+1])
         return ans
